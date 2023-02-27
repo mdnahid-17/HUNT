@@ -1,0 +1,376 @@
+/*mobaile device css start*/
+
+
+@media (max-width:575.98px) {
+
+
+    .navbar {
+        padding: 5px 0;
+
+    }
+
+    .navbar img {
+        transform: scale(0.9);
+    }
+
+    /*banner part start*/
+    .banner-iteam {
+        padding: 170px 0 145px 0;
+        clip-path: none;
+    }
+
+    .banner-text h3 {
+        font-size: 30px;
+        padding: 10px 0;
+    }
+
+    .banner-text h1 {
+        font-size: 50px;
+    }
+
+    .banner-text p {
+        font-size: 14px;
+        padding: 13px 0;
+    }
+
+    .banner-text a {
+        font-size: 14px;
+        padding: 15px 20px;
+
+    }
+
+    .left {
+        display: none !important;
+    }
+
+    .right {
+        display: none !important;
+    }
+
+    /*About start*/
+
+    #about {
+        padding: 0px 0 40px;
+    }
+
+    .common-title {
+        padding: 20px 0 10px;
+    }
+
+    .common-title h4 {
+        font-size: 25px;
+    }
+
+    .common-title p {
+        font-size: 13px;
+        width: 305px;
+        margin-top: -15px;
+    }
+
+    .about-top {
+        width: 300px;
+
+    }
+
+    .about-top h4 {
+        font-size: 17px;
+        padding: 20px 20px 12px;
+    }
+
+    .about-top p {
+        font-size: 13px;
+        padding: 0px 10px 35px;
+
+    }
+
+    .about-top-shap {
+        display: none;
+    }
+
+    .about-top-circel {
+        display: none;
+    }
+
+    /*middle row*/
+    .about-left {
+        width: 300px;
+        margin-top: -15px;
+    }
+
+    .about-left h4 {
+        font-size: 17px;
+        padding: 20px 10px 20px 0;
+    }
+
+    .about-left p {
+        font-size: 13px;
+        padding: 0px 0px 35px 30px;
+        width: 290px;
+    }
+
+    .about-left-shap {
+        display: none;
+    }
+
+    .about-left-circel {
+        display: none;
+    }
+
+    .about-middle {
+        width: 300px;
+        height: 300px;
+    }
+
+    .about-center {
+        width: 280px;
+        height: 280px;
+
+    }
+
+    .about-right {
+        width: 300px;
+        margin-left: -37px;
+        margin-top: 15px;
+    }
+
+    .about-right h4 {
+        font-size: 17px;
+        padding: 20px 0px 12px 10px;
+    }
+
+    .about-right p {
+        font-size: 13px;
+        padding: 0px 10px 35px;
+        font-family: 'Open Sans', sans-serif;
+        width: 290px;
+    }
+
+    .about-right-shap {
+        display: none;
+    }
+
+    .about-right-circel {
+        display: none;
+    }
+
+    .about-bottom {
+        width: 300px;
+        margin-top: -40px;
+    }
+
+    .about-bottom h4 {
+        font-size: 17px;
+        padding: 20px 20px 12px;
+    }
+
+    .about-bottom p {
+        font-size: 13px;
+        padding: 0px 10px 35px;
+
+    }
+
+    .about-bottom-shap {
+        display: none;
+    }
+
+    .about-bottom-circel {
+        display: none;
+    }
+
+    /*our Portfolio start*/
+    #our-portfolio {
+        clip-path: none;
+        padding: 15px 0 50px;
+    }
+
+    .common-title h3 {
+        font-size: 25px;
+    }
+
+    /*our service part start*/
+    #service {
+        padding: 20px 0 30px;
+    }
+
+    .service-slider {
+        display: none;
+    }
+
+    .shap {
+        display: none;
+    }
+
+    .up {
+        display: none !important;
+    }
+
+    .down {
+        display: none !important;
+    }
+
+    .line-shape {
+        display: none;
+    }
+
+    .service-top {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .service-top-img {
+        width: 80px;
+        height: 80px;
+        background: #f1f1f1;
+        border-radius: 50%;
+        text-align: center;
+        line-height: 80px;
+        margin: 0 auto;
+    }
+
+    .service-top-img img {
+        width: 60%;
+        object-fit: cover;
+    }
+
+    .service-title {
+        padding: 15px 0 0;
+    }
+
+    .service-info p {
+        background: #f1f1f1;
+        font-size: 13px;
+        padding: 15px;
+        text-align: justify;
+        margin-top: 10px;
+    }
+
+    .slick-slide img {
+        display: inline-block;
+    }
+
+    .service-top.slick-center .service-top-img {
+        transform: scale(1.1);
+        background: #fec600;
+    }
+
+    /*person-slider start*/
+    #slider {
+        clip-path: none;
+    }
+
+    /* pricing plan strat*/
+    #pricing-plan {
+        padding: 20px 0 40px;
+    }
+
+    .silver-card {
+        margin: 10px;
+    }
+
+    /*total client start*/
+    #review {
+        clip-path: none;
+
+    }
+
+    .client {
+        padding: 0px;
+    }
+
+    .client-wrap {
+        transform: none;
+    }
+
+    .total-client {
+        width: 22%;
+        margin: 0 3.5px;
+        padding: 0;
+        transform: none;
+    }
+
+    .total-client h4 {
+        font-size: 20px;
+        padding: 10px 0;
+        transform: none;
+    }
+
+    .total-client p {
+        font-size: 13px;
+        padding: 0 0 10px;
+        transform: none;
+    }
+
+    /*our team start*/
+    .team-member {
+        height: 95% !important;
+        margin: 20px 0 0 0;
+    }
+
+    .socal-media {
+        display: block !important;
+        opacity: 1 !important;
+        transform: scale(1) !important;
+    }
+
+
+    .team-image-overlay {
+        opacity: 0 !important;
+
+    }
+
+    /*market-place-logo start*/
+
+    #market-place-logo {
+        padding: 35px 0;
+        clip-path: none;
+        margin-top: -25px;
+    }
+
+    .logo-wrap {
+        transform: none;
+    }
+
+    .marketing-logo {
+        padding: 16px 6px;
+        margin: 5px;
+    }
+
+    /*footer part start*/
+    #footer {
+        background: black;
+        padding: 45px 0 0;
+        margin-top: 0px;
+    }
+
+    .footer-top img {
+        width: 40%;
+        transform: none;
+    }
+
+    .footer-top {
+        padding: 0 0 30px;
+        transform: none;
+        margin-left: 0;
+    }
+
+    .footer-content {
+        margin-top: 50px;
+    }
+
+    .footer-content p {
+        font-size: 15px;
+    }
+
+    .footer-socal-media {
+
+        padding: 40px 0px 30px;
+    }
+
+    .footer-socal-media i {
+        margin: 0 10px 0 0;
+    }
+
+    .footer-socal-media h4 {
+        margin-top: -20px;
+    }
+}
